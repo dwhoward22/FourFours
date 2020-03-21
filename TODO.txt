@@ -1,0 +1,21 @@
+Spec:
+    -solves four fours problem using set of operations
+    -outputs equations in increasing order
+    -outputs None if no equation possible
+
+
+
+
+To Add:
+
+
+
+
+
+--custom set of operations
+
+--custom number and amount of numbers
+
+--memoization of past operations for speed
+
+--output to txt file
