@@ -4,13 +4,7 @@ Spec:
     -outputs None if no equation possible
 
 
-
-
 To Add:
-
-
-
-
 
 --custom set of operations
 
